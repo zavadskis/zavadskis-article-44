@@ -1,0 +1,7 @@
+site_name: "Andrejs Zavadskis — Commercial and Portrait Photographer"
+site_url: https://zavadskis.readthedocs.io/
+site_description: "Andrejs Zavadskis, European commercial and portrait photographer based in Riga, Latvia."
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
